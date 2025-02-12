@@ -1,0 +1,38 @@
+// We can declare a DateTime Variable
+Datetime myDateTime;
+// We can declare a date only variable
+DateOnly myDate;
+// We can declare a time only variable
+TimeOnly myTime;
+
+
+// We can assign a value to these variable
+myDateTime = DateTime.Now;
+myDate = new DateOnly(2024, 1, 23);
+myTime = new TimeOnly(1, 23, 45);
+
+// We can declare and assign in one line
+DateTime myDateTime2 = myDateTime.Now;
+DateOnly myDate2 = new DateOnly(2024, 1, 23);
+TimeOnly myTime2 = new TimeOnly(1, 23,45);
+
+//We can re-assign a value to these variables
+myDateTime = DateTime.Now;
+myDate = new DateOnly(2024, 1, 23);
+myTime = new TimeOnly(1, 23, 45);
+
+//Dates and Times are complex... consider
+//What we haven't factored in Time Zones
+
+// We can make a DateTime variable out of a
+// DateOnly and a TimeOnly variable
+
+//Writing this to the console
+Console.Writeline($"Date only: {myDate}");
+Console.Writeline($"Time only: {myTime}");
+Console.Writeline($"Date Time: {dateTimeFromCombination}");
+
+
+
+
+     

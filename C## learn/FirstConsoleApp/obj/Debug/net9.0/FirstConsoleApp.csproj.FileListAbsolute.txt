@@ -1,0 +1,14 @@
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.deps.json
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.runtimeconfig.json
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.dll
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/bin/Debug/net9.0/FirstConsoleApp.pdb
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.AssemblyInfoInputs.cache
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.AssemblyInfo.cs
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.dll
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/refint/FirstConsoleApp.dll
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.pdb
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/FirstConsoleApp.genruntimeconfig.cache
+/Users/olusodoayotunde/Documents/html/C## learn/FirstConsoleApp/obj/Debug/net9.0/ref/FirstConsoleApp.dll
